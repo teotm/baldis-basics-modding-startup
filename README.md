@@ -26,17 +26,17 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 - Read [this](Textures.md) document. It has basic necessary knowledge you need to know, while modding textures.
 
 # Modding Audio
-## Required programs
+### Required programs
 - [Unity Assets Bundle Extractor](https://github.com/SeriousCache/UABE/releases/tag/2.2stabled) (UABE)
 - [Unity 2019.3.12](https://unity3d.com/unity/whats-new/2019.3.12) (recommended version)
-## How to modify audio?
+### How to modify audio?
 - It is more complicated than modding textures.
 - Also, the guide is a TODO, so please wait until I write the guide.
 
 # Coding
-## Required programs
+### Required programs
 - [dnSpy](https://github.com/dnSpy/dnSpy/releases/tag/v6.1.8)
-## How to change the game's code?
+### How to change the game's code?
 - You have to open `Assembly-CSharp.dll` file using dnSpy, which is located in `BALDI_Data/Managed` directory.
 - You also need to have a little bit of knowledge of C# a bit
 - More info later
