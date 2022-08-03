@@ -3,7 +3,7 @@
 - [Sharedassets#.assets references](#Sharedassets-references)
 - [Modding Textures](#Modding-Textures)
 - [Modding Audio](#Modding-Audio) (TO DO)
-- [Coding]()
+- [Coding](#Coding)
 - [Recommended Programs to Mod the game](#Recommended-Programs)
 
 # Main
@@ -42,3 +42,10 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 - More info later
 
 # Recommended Programs
+### For modyfying textures
+- [Paint.net](https://www.dotpdn.com/downloads/pdn.html)
+### For modyfying audio
+- [Audacity](https://www.audacityteam.org/download/)
+### For modyfying text files (dumps)
+- [Notepad++](https://notepad-plus-plus.org/downloads/)
+- [Visual Studio Code](https://code.visualstudio.com/download)
