@@ -23,7 +23,7 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 ## Required program
 - [Unity Assets Bundle Extractor](https://github.com/SeriousCache/UABE/releases/tag/2.2stabled) (UABE)
 ## How to modify textures?
-- Read [this](Textures.md) document. It has basic necessary knowledge you need to know, while modding textures.
+- Read [this document](Textures.md). It has basic necessary knowledge you need to know, while modding textures while using UABE.
 
 # Modding Audio
 ### Required programs
