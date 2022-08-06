@@ -1,5 +1,5 @@
 # Modyfying Textures
-[Click here](https://github.com/teotm/baldis-basics-modding-startup/blob/main/README.md#How-to-modify-textures) to go back to the Main guide
+[Click here](README.md) to go back to the Main guide
 ## Extracting assets
 Once you have UABE installed, open it, click "File" and "Open"
 
