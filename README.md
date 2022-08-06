@@ -29,6 +29,7 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 ### Required programs
 - [Unity Assets Bundle Extractor](https://github.com/SeriousCache/UABE/releases/tag/2.2stabled) (UABE)
 - [Unity 2019.3.12](https://unity3d.com/unity/whats-new/2019.3.12) (recommended version)
+- [UnityEX](https://www.mediafire.com/file/t8umkb9empr7vz7/UnityEX.zip/file) (alternative to Unity)
 ### How to modify audio?
 - It is more complicated than modding textures.
 - Also, the guide is a TODO, so please wait until I write the guide.
