@@ -14,7 +14,7 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 - globalgamemanagers.assets - The cursor, the mystman12 and Meta Game Jam logo.
 0. Warning Screen
 1. Title Screen
-2. Play State (The basic map you play in)
+2. School
 3. Game Over Screens
 4. Normal Ending
 5. Secret ending (filename2)
