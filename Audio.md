@@ -64,4 +64,6 @@ Click the audio name you want to modify, next press Import Dump and search for t
 
 Finally, copy the `sharedassets0.resource` file from your Unity project, rename the file to `myCustomName.resource` and drag it into the `BALDI_Data` folder.
 
-# I'll write the rest later, be patient
+## The results
+
+[Click here](https://www.youtube.com/watch?v=8lQmpJM3jEs) to see my result of successfully modfied audio. 
