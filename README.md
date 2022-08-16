@@ -41,6 +41,7 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 ### How to change the game's code?
 - Open dnSpy and search for `Assembly-CSharp.dll`, which is located in `BALDI_Data/Managed` directory.
 - At the left column, there's a file list. Search for the file you opened, and click on the little arrow next to the file name and do it again. Now, you should see three file contents which are `PE`, `Type References` and `-`. Click on the `-` and you'll see a bunch of the game scripts.
+
 ![dnSpy jumpscare](images/coding/assembly-csharp.png)
 - Choose the game script you would want to edit and click on it.
 - Now, if you want to edit the script, click Right mouse button on the game code and choose `Edit Method (C#)` or `Edit Class (C#)`.
