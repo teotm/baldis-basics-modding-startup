@@ -30,16 +30,27 @@ Folders I recommend you to to make:
 2. Folder with the original assets and the modified ones
 3. Folder with **ONLY** the modified textures
 
-## What to do next when the assets are extracted and edited?
+## What's next after modyfying the asset(s)?
 
-When you edited the assets, you have to open UABE again, and repeat the process above, until you open the `.assets` file.
-Select (only) the assets you want to replace by `Ctrl+Click`ing them.
+When you edited the asset(s), you have to open UABE again, and repeat the process above, until you open the `.assets` file.
+Select only the asset(s) you want to replace by `Ctrl+Click`ing them/it.
 
 ![Replace the assets](images/textures/ctrlClick.png)
+
+## Modyfying a single image
+
+Press the "Plugins" button and choose "Edit". After that, search for the image that you want replace the asset with.
+
+![Batch Importing](images/textures/editingTheImage.png)
+
+
+## Modyfying multiple images
 
 Press the "Plugins" button and choose "Batch import". After that, you'll need to search for the folder with the assets you want to replace and select it.
 
 ![Batch Importing](images/textures/batchImporting.png)
+
+## The last step
 
 If you see `*` in the row of the asset, it means you successfully managed to modify the asset.
 When you're done, save the modified `.assets` file and replace it.
