@@ -28,12 +28,13 @@ Ever wanted to mod Baldi's Basics? Well no worries, this guide is here to help y
 
 # Modding Audio
 ### Required programs
-- [Unity Assets Bundle Extractor](https://github.com/SeriousCache/UABE/releases/tag/2.2stabled) (UABE)
+- [Unity Assets Bundle Extractor](https://github.com/SeriousCache/UABE/releases/tag/2.2stabled) (UABE, can be helpful in UnityEX method)
 - [Unity 2019.3.12](https://unity3d.com/unity/whats-new/2019.3.12) (recommended version)
 - [UnityEX](https://www.mediafire.com/file/t8umkb9empr7vz7/UnityEX.zip/file) (alternative to Unity)
 ### How to modify audio?
-- There are two methods of modyfying audio. These are Unity method and UnityEX method. Right now, only of one of them is finished.
-- - [Unity Method](Audio.md).
+- There are two methods of modyfying audio.
+- - [UnityEX Method](AudioUnityEX.md)
+- - [Unity Method](Audio.md) (more difficult)
 
 # Coding
 ### Required programs
